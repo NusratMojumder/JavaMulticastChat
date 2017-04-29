@@ -1,0 +1,12 @@
+login : Login using given username and password = = "sraboni-1234"/"fariha-abcd"/ "maisha=111111"/ "rafsan-abc123" (change in TCPServer/userpassword_match.java) 
+add friend : Add other active clients for 'private message' , 'group message'  and 'private chat' (Otherwise public message will be sent to everyone)
+private message : Send message to one user
+exit private : Exit private message
+group message : Send message to a group
+exit group : Exit group message 
+my history : Showing Personal History
+history : Showing Total History
+logout : To Logout
+.bye : Leave Program
+
+remove:portnumber : write in server to remove a client
